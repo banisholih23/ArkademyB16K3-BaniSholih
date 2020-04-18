@@ -17,4 +17,4 @@ SCREENSHOOT No 6
 6c
 ![Soal 6b](6/6c/6c.png)
 ![Soal 6b](6/6c/6c(edit).png)
-![Soal 6b](6/6c/6c(tambah.png)
+![Soal 6b](6/6c/6c(tambah).png)
