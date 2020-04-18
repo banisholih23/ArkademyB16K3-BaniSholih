@@ -7,4 +7,4 @@ Semua Soal dapat dijalankan di console. Untuk soal no 6 file sql ada di folder 6
 SCREENSHOOT No 6
 
 6a
-![Soal 6a](6A.ArkademyB16K2.png)
+![Soal 6a](6/6a/6A.ArkademyB16K2.png)
